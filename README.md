@@ -1,6 +1,6 @@
 # To-Do List Maker
 
-This is a to do list maker made using NodeJS, MongoDB and the mongoose library. link to live site: https://quiet-inlet-16497.herokuapp.com/
+This is a to do list maker made using NodeJS, EJS, MongoDB and the mongoose library. link to live site: https://quiet-inlet-16497.herokuapp.com/
 
 ## Getting Started
 
